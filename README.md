@@ -1,2 +1,7 @@
-# Feature_Impact_Visualizer
-This project demonstrates explainable AI concepts by linking model predictions to intuitive visual explanations for non-technical users.
+# 🧠 Feature Impact Visualizer
+
+A simple interactive dashboard built with **Python** and **Streamlit** to visualize how each feature influences model predictions using **SHAP** values.
+
+```bash
+pip install -r requirements.txt
+streamlit run feature_impact_visualizer.py
